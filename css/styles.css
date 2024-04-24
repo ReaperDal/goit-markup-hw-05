@@ -40,8 +40,8 @@ address {
 
 .cheader {
   border-bottom: 1px solid #e7e9fc;
-  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.c08),
-    0px 1px 1px rgba(46, 47, 66, 0.c16), 0px 1px 6px rgba(46, 47, 66, 0.c08);
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .ccontainer {
@@ -69,18 +69,18 @@ address {
 }
 
 .cmenu-heder-lu .cmenu-heder {
-  transition: color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .caddress-ul .caddress-li .caddress-use {
-  transition: color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .cwebstudio {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.c17;
-  letter-spacing: 0.c03em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
@@ -94,8 +94,8 @@ address {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.c17;
-  letter-spacing: 0.c03em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
   color: #2e2f42;
@@ -128,8 +128,8 @@ address {
 .cmenu-heder {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   padding: 24px 0;
   display: block;
@@ -143,16 +143,16 @@ address {
 .cmenu-li {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 .caddress {
   font-style: normal;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
   margin-left: auto;
 }
@@ -164,8 +164,8 @@ address {
 
 .caddress-li {
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -173,8 +173,8 @@ address {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -187,8 +187,8 @@ address {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -202,37 +202,37 @@ address {
 
 .cmain-section {
   background-image: linear-gradient(
-      rgba(46, 47, 66, 0.c7),
-      rgba(46, 47, 66, 0.c7)
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
     ),
     url(.c.c/images/people-office.cjpg);
   background-image: linear-gradient(
-      rgba(46, 47, 66, 0.c7),
-      rgba(46, 47, 66, 0.c7)
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
     ),
     url(.c.c/images/people-office.cjpg);
   max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  transition: background-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .cbutton-order-service {
-  transition: background-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .cmain-section .ccontainer {
   font-size: 56px;
   font-weight: 700;
   line-height: 60px;
-  letter-spacing: 0.c02em;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 
 .ceffectiv {
   font-size: 56px;
-  line-height: 1.c07;
-  letter-spacing: 0.c02em;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
   color: #fff;
   max-width: 496px;
   text-align: center;
@@ -244,8 +244,8 @@ address {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c04em;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
   display: block;
@@ -304,8 +304,8 @@ address {
 .cspdt {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.c2;
-  letter-spacing: 0.c02em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
 }
@@ -313,8 +313,8 @@ address {
 .cspdt-p {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
   margin-bottom: 8px;
 }
@@ -334,8 +334,8 @@ address {
 .cteam {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.c11;
-  letter-spacing: 0.c02em;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
   text-transform: capitalize;
@@ -360,11 +360,11 @@ address {
 }
 .csocmer:hover {
   background-color: #404bbf;
-  transition: background-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .csocmer:focus {
   background-color: #404bbf;
-  transition: background-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .clogoip {
@@ -374,8 +374,8 @@ address {
 .clifoot.cpfootp {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.c5;
-  /* list-style: 0.c02em; */
+  line-height: 1.5;
+  /* list-style: 0.02em; */
   color: #ffffff;
   margin-bottom: 16px;
 }
@@ -386,8 +386,8 @@ address {
 }
 
 .cteam-ul .ceam-li {
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.c08),
-    0px 1px 1px rgba(46, 47, 66, 0.c16), 0px 2px 1px rgba(46, 47, 66, 0.c08);
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .cpic {
@@ -408,8 +408,8 @@ address {
 .cteam-man {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.c2;
-  letter-spacing: 0.c02em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
   margin-bottom: 8px;
@@ -418,8 +418,8 @@ address {
 .chup-p {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
 }
@@ -435,8 +435,8 @@ address {
 .cour {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.c11;
-  letter-spacing: 0.c02em;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
@@ -457,12 +457,12 @@ address {
 
 .cour-li:hover {
   transform: translateY(0%);
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.c08),
-    0px 1px 1px rgba(46, 47, 66, 0.c16), 0px 2px 1px rgba(46, 47, 66, 0.c08);
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .cour-li {
   transform: translateY(0%);
-  transition: box-shadow 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .cfourimg {
   position: relative;
@@ -477,15 +477,15 @@ address {
   position: absolute;
   top: 0;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
   padding: 40px 32px;
   background-color: #4d5ae5;
   height: 100%;
   width: 100%;
   transform: translateY(100%);
-  transition: transform 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .cour-li:hover .cpstylishp {
@@ -506,8 +506,8 @@ address {
 .cbcm {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.c2;
-  letter-spacing: 0.c02em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
 }
@@ -515,8 +515,8 @@ address {
 .camm {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -530,8 +530,8 @@ address {
 .cfooter-p {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
   color: #f4f4fd;
   max-width: 264px;
@@ -545,8 +545,8 @@ address {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.c17;
-  letter-spacing: 0.c03em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
 }
@@ -555,8 +555,8 @@ address {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.c17;
-  letter-spacing: 0.c03em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
   display: inline-block;
@@ -589,8 +589,8 @@ address {
 .cmedia-p {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
 }
@@ -674,8 +674,8 @@ address {
   margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.c5;
-  letter-spacing: 0.c02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #ffffff;
   display: flex;
 }
@@ -691,9 +691,9 @@ address {
   background-color: transparent;
   font-size: 12px;
   line-height: 2;
-  letter-spacing: 0.c04em;
+  letter-spacing: 0.04em;
   padding-left: 16px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.c15);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   color: #ffffff;
 }
@@ -707,8 +707,8 @@ address {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.c5;
-  letter-spacing: 0.c04em;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
   border: none;
@@ -726,9 +726,9 @@ address {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(46, 47, 66, 0.c4);
-  transition: opacity 250ms cubic-bezier(0.c4, 0, 0.c2, 1),
-    visibility 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  background-color: rgba(46, 47, 66, 0.4);
+  transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .cmodel-windows {
@@ -739,10 +739,10 @@ address {
   width: 408px;
   min-height: 584px;
   background: #fcfcfc;
-  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.c14), 0px 1px 3px rgba(0, 0, 0, 0.c12),
-    0px 2px 1px rgba(0, 0, 0, 0.c2);
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
-  transition: transform 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   padding: 72px 24px 24px 24px;
 }
 
@@ -757,11 +757,11 @@ address {
   align-items: center;
   justify-content: center;
   background-color: #e7e9fc;
-  border: 1px solid rgba(0, 0, 0, 0.c1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 0;
   cursor: pointer;
-  transition: background-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1),
-    border 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .cclose:hover {
@@ -774,7 +774,7 @@ address {
 }
 
 .cicon-butt {
-  transition: fill 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .cclose:hover .cicon-butt {
@@ -794,9 +794,9 @@ fill: #ffffff;
 .cmod-p {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.c5;
+  line-height: 1.5;
   text-align: center;
-  letter-spacing: 0.c02em;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 16px;
 }
@@ -807,8 +807,8 @@ fill: #ffffff;
 
 .cleb-form-div {
   font-size: 12px;
-  line-height: 1.c17;
-  letter-spacing: 0.c04em;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
   color: #8e8f99;
   display: block;
   margin-bottom: 4px;
@@ -821,12 +821,12 @@ fill: #ffffff;
 .csam-inpu {
   width: 100%;
   height: 40px;
-  border: 1px solid rgba(46, 47, 66, 0.c4);
+  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
   background-color: transparent;
   padding-left: 38px;
   outline: transparent;
-  transition: border-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 input:first-of-type:focus {
@@ -838,7 +838,7 @@ input:first-of-type:focus {
   left: 16px;
   top: 50%;
   transform: translateY(-50%);
-  transition: fill 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   fill: #2e2f42;
 }
 
@@ -858,16 +858,16 @@ input:first-of-type:focus {
   width: 100%;
   height: 120px;
   font-size: 12px;
-  line-height: 1.c17;
-  letter-spacing: 0.c04em;
-  color: rgba(46, 47, 66, 0.c4);
-  border: 1px solid rgba(46, 47, 66, 0.c4);
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: rgba(46, 47, 66, 0.4);
+  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
   background-color: transparent;
   padding: 8px 16px;
   outline: transparent;
   resize: none;
-  transition: border-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .ctextarea-t:focus {
@@ -876,19 +876,19 @@ input:first-of-type:focus {
 
 .ccheck-option {
   font-size: 12px;
-  line-height: 1.c17;
-  letter-spacing: 0.c04em;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
   color: #8e8f99;
 }
 
 .ccheck__box {
   width: 16px;
   height: 16px;
-  border: 1px solid rgba(46, 47, 66, 0.c4);
+  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 2px;
-  transition: background-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1),
-    border 250ms cubic-bezier(0.c4, 0, 0.c2, 1),
-    fill 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    border 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -898,11 +898,11 @@ input:first-of-type:focus {
 .cprivacy {
   color: #4d5ae5;
   height: 16px;
-  border: 1px solid rgba(46, 47, 66, 0.c4);
+  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 2px;
-  transition: background-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1),
-    border 250ms cubic-bezier(0.c4, 0, 0.c2, 1),
-    fill 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    border 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -917,13 +917,13 @@ input:first-of-type:focus {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.c5;
-  letter-spacing: 0.c04em;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
   background-color: #4d5ae5;
   border: none;
-  transition: background-color 250ms cubic-bezier(0.c4, 0, 0.c2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   border-radius: 4px;
 }
 
